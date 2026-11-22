@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclient_lib.a CMakeFiles/client_lib.dir/src/client/command_parser.cpp.o CMakeFiles/client_lib.dir/src/client/connector.cpp.o CMakeFiles/client_lib.dir/src/client/history.cpp.o CMakeFiles/client_lib.dir/src/client/receiver.cpp.o
+/usr/bin/ranlib libclient_lib.a

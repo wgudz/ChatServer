@@ -1,0 +1,7 @@
+/mnt/a/ChatServer/build-linux/CMakeFiles/common_lib.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/client_lib.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/server_lib.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/server.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/client.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/edit_cache.dir
+/mnt/a/ChatServer/build-linux/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_lib.a CMakeFiles/common_lib.dir/src/common/config.cpp.o CMakeFiles/common_lib.dir/src/common/net_utils.cpp.o CMakeFiles/common_lib.dir/src/common/protocol.cpp.o CMakeFiles/common_lib.dir/src/common/time_utils.cpp.o CMakeFiles/common_lib.dir/src/common/helpers.cpp.o
+/usr/bin/ranlib libcommon_lib.a
